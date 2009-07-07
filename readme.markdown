@@ -13,7 +13,7 @@ Please name your overall id something different if you have more than one tabbed
 
     <script>
         $(document).ready(function(){
-            $('#product_tabs').tabbify();
+            $('#product_tabs').tabify();
         });
     </script>
 
@@ -33,7 +33,6 @@ Please name your overall id something different if you have more than one tabbed
     		This is the wah tab
     	</div>
     </div>
-    </pre>
 
 
 #### Credits
